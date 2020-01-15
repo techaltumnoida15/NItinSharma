@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24602" started-at="2020-01-09T00:22:08 IST" finished-at="2020-01-09T00:22:32 IST">
+  <suite name="Default suite" duration-ms="24645" started-at="2020-01-15T23:56:29 IST" finished-at="2020-01-15T23:56:54 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24602" started-at="2020-01-09T00:22:08 IST" finished-at="2020-01-09T00:22:32 IST">
-      <class name="org.practiceSession.com.MouseOverExample2">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:org.practiceSession.com.MouseOverExample2@704d6e83]" name="openBrowser" is-config="true" duration-ms="24139" started-at="2020-01-09T00:22:08 IST" finished-at="2020-01-09T00:22:32 IST">
+    <test name="Default test" duration-ms="24645" started-at="2020-01-15T23:56:29 IST" finished-at="2020-01-15T23:56:54 IST">
+      <class name="org.testCases.com.TC02">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:org.testCases.com.TC02@43a0cee9]" name="openBrowser" is-config="true" duration-ms="11365" started-at="2020-01-15T23:56:30 IST" finished-at="2020-01-15T23:56:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="mouseOver()[pri:0, instance:org.practiceSession.com.MouseOverExample2@704d6e83]" name="mouseOver" duration-ms="428" started-at="2020-01-09T00:22:32 IST" finished-at="2020-01-09T00:22:32 IST">
+        <test-method status="PASS" signature="testCase02()[pri:0, instance:org.testCases.com.TC02@43a0cee9]" name="testCase02" duration-ms="12141" started-at="2020-01-15T23:56:41 IST" finished-at="2020-01-15T23:56:53 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- mouseOver -->
-        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:org.practiceSession.com.MouseOverExample2@704d6e83]" name="quitBrowser" is-config="true" duration-ms="1" started-at="2020-01-09T00:22:32 IST" finished-at="2020-01-09T00:22:32 IST">
+        </test-method> <!-- testCase02 -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:org.testCases.com.TC02@43a0cee9]" name="quitBrowser" is-config="true" duration-ms="1098" started-at="2020-01-15T23:56:53 IST" finished-at="2020-01-15T23:56:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-      </class> <!-- org.practiceSession.com.MouseOverExample2 -->
+      </class> <!-- org.testCases.com.TC02 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
